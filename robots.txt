@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prasad.is-a.dev/sitemap.xml
